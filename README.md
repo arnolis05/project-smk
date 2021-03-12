@@ -4,3 +4,10 @@
 [![NPM version](https://badge.fury.io/js/badge-list.svg)](http://badge.fury.io/js/badge-list)
 [![GitHub version](https://badge.fury.io/gh/boennemann%2Fbadges.svg)](http://badge.fury.io/gh/boennemann%2Fbadges)
 [![Bower version](https://badge.fury.io/bo/badges.svg)](http://badge.fury.io/bo/badges)
+
+A simple calculator is a simple project using the Php programming language using functions so that the program structure is neat and clean.
+
+## Requirements
+
+* [Php=> 5.3.7](#Php-=>-5.3.7)
+* [Git Extension](#Git-Extension)
